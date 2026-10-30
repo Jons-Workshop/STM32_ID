@@ -1,0 +1,1 @@
+This provides simple functions to read the 96 bit unique ID from any STM32 and provide 8 bit and 12 bit short-form IDs. These may be 'unique enough' when, for example, connecting several items to a CAN bus etc
